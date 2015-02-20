@@ -6,7 +6,7 @@ This project is a Web-based RSA encryption system for PHP and JavaScript.
 *Your help is welcome.*
 
 ## Introduction
-A Web-based RSA encryption system allows to efficiently obfuscate sensitive information when the usage of HTTPS is impossible or too expensive. Not having a valid SSL certificate is not a big problem anymore when exchanging passwords, email adresses, etc. For instance this is especially true for clients using an unencrypted WiFi access :signal_strength:.
+A Web-based RSA encryption system allows to efficiently obfuscate sensitive information when the usage of HTTPS is impossible or too expensive. Not having a valid SSL certificate is not a big problem anymore when exchanging passwords, email addresses, etc. For instance this is especially true for clients using an unencrypted WiFi access :signal_strength:.
 
 Unlike other cheap encryptions using a single key, RSA encryption uses a set of keys (a *private* key and a *public* key). As long as the *private* key :key: remains secret, the encryption is strong:
 
