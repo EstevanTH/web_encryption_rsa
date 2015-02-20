@@ -1,6 +1,8 @@
 # Web Encryption w/ RSA
 This project is a Web-based RSA encryption system for PHP and JavaScript.
+
 *The project has not begun yet.*
+
 *Your help is welcome.*
 
 ## Introduction
